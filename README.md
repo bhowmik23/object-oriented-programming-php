@@ -16,3 +16,7 @@ Properties<br />
 Methods<br>
   ->accelerate
   ->break
+# Access Modifiers
+-><b>public</b> - the property or method can be accessed from everywhere. This is default<br>
+-><b>protected</b> - the property or method can be accessed within the class and by classes derived from that class<br>
+-><b>private</b> - the property or method can ONLY be accessed within the class<br>
