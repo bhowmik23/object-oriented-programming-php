@@ -14,7 +14,7 @@ For example a train<br>
   ->colour<br />
   ->top speed<br />
 <b>Methods</b><br>
-  ->accelerate
+  ->accelerate<br>
   ->break
 # Access Modifiers
 -><b>public</b> - the property or method can be accessed from everywhere. This is default<br>
