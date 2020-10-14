@@ -9,11 +9,11 @@
 -A class coitain tow things<br>
 <b>1.Properties 2.Methods</b><br>
 For example a train<br>
-Properties<br />
+<b>Properties</b><br />
   ->length<br />
   ->colour<br />
   ->top speed<br />
-Methods<br>
+<b>Methods</b><br>
   ->accelerate
   ->break
 # Access Modifiers
